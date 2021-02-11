@@ -2,7 +2,7 @@
 body{
 	background-image : url("https://thewallpaper.co//wp-content/uploads/2019/08//design-theme-wallpaper-abstract-illustration-light-colors-desktop-images-high-resolution-art-colorful-jpg.jpg");
 }
-/* Style the tab buttons */
+
 .tablink {
   background-color: #555;
   color: white;
@@ -15,12 +15,10 @@ body{
   width: 25%;
 }
 
-/* Change background color of buttons on hover */
 .tablink:hover {
   background-color: #777;
 }
 
-/* Set default styles for tab content */
 .tabcontent {
   color: white;
   display: none;
@@ -29,7 +27,6 @@ body{
   font-family : Florence, cursive;
 }
 
-/* Style each tab content individually */
 #London {background-image:url("https://www.londoncouncils.gov.uk/sites/default/files/styles/image_1200x430/public/London%20city%20scape%20carousel.png?itok=UQz6jrV6");
 background-repeat: no-repeat;
   background-size: cover;}
